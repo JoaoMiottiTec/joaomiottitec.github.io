@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;font-family:Franklin Gothic Medium,Arial Narrow,Arial,sans-serif}.scrollTop{position:fixed;width:5%;bottom:100px;right:10px;align-items:flex-end;height:20px;justify-content:end;z-index:1000;cursor:pointer;-webkit-animation:fadeIn .3s;animation:fadeIn .3s;transition:opacity .4s;opacity:.5;color:#6c63ff;margin-right:80px}.scrollTop:hover{opacity:1}@-webkit-keyframes fadeIn{0%{opacity:0}to{opacity:.5}}@keyframes fadeIn{0%{opacity:0}to{opacity:.5}}
+/*# sourceMappingURL=main.8f9d28c7.chunk.css.map */
